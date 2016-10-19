@@ -21,7 +21,7 @@
 		<footer>
             <div class="row">
              
-                    <p>Web Site Administered by <a href="http://carloscardo.herokuapp.com/">Carlos Cardo</a></p>
+                    <p>Web Site Administered by: <!--<a href="http://carloscardo.herokuapp.com/">Carlos Cardo 2016</a>--></p>
           
             </div>
         </footer>
