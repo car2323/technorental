@@ -9,8 +9,8 @@
 	</head>
 	<body>
 		
-		<div style="max-width: 1170px;">
 			<img class="img-responsive" src="Techno Rental LOGO-01.png" alt="">
+		<div style="max-width: 1170px;">
 			<link href="http://technorental.com/script/core/framework/libs/pj/css/pj.bootstrap.min.css" type="text/css" rel="stylesheet" />
 <link href="http://technorental.com/script/index.php?controller=pjFrontEnd&action=pjActionLoadCss" type="text/css" rel="stylesheet" />
 <script type="text/javascript" src="http://technorental.com/script/index.php?controller=pjFrontEnd&action=pjActionLoad"></script>
