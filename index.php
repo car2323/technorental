@@ -20,8 +20,7 @@
 		</div>
 		<footer>
             <div class="row">
-             <img style="max-width: 100%;" src="small LOGO-05.png">
-                    Web Site Administered by: <!--<a href="http://carloscardo.herokuapp.com/">Carlos Cardo 2016</a>-->
+                    <p>Web Site Administered by: <!--<a href="http://carloscardo.herokuapp.com/">Carlos Cardo 2016</a>--></p>
             </div>
         </footer>
 	</body>
