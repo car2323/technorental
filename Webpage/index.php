@@ -86,17 +86,14 @@
         <div class="text-vertical-center">
            <!-- <h1>Start Bootstrap</h1>
             <h3>Free Bootstrap Themes &amp; Templates</h3>-->
-            <br>
-            <br>
-            <br>
-            <br>
-            <br><br><br><br><br><br><br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br><br><br><br><br><br><br>
+            <br><br><br>
+            <br><br><br>
+            <br><br><br>
+            <br><br><br>
+            <br><br><br>
+            <br><br><br>
+            <br><br><br>
+            <br><br>
             <a href="#about" class="btn btn-dark btn-lg greentechnocolor">Our Services</a>
         </div>
     </header>
@@ -281,8 +278,8 @@
                     <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h4><strong>Start Bootstrap</strong>
-                    </h4>
+                    <!--<h4><strong>Start Bootstrap</strong>
+                    </h4>-->
                     <p>
                         <br>Miami, FL</p>
                     <ul class="list-unstyled">
