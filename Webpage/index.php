@@ -277,7 +277,7 @@
 
 
 <!--***************************************-->
-        <script type="text/javascript" src="http://technorental.com/script/index.php?controller=pjFrontEnd&action=pjActionLoad"></script>
+        
 		</div>
 		<footer>
                     <div class="container">
